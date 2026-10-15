@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#F3E5F5"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Meditation figure head -->
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M150,50m-16,0a16,16 0 1,0 32,0a16,16 0 1,0 -32,0" />
+    <!-- Meditation body in lotus -->
+    <path
+        android:fillColor="#BA68C8"
+        android:pathData="M150,72 C130,72 110,95 100,120 L200,120 C190,95 170,72 150,72 Z" />
+    <path
+        android:fillColor="#7B1FA2"
+        android:pathData="M90,135 C90,120 120,120 150,130 C180,120 210,120 210,135 C210,145 180,150 150,148 C120,150 90,145 90,135 Z" />
+    <!-- Zen circles in background -->
+    <path
+        android:strokeColor="#E1BEE7"
+        android:strokeWidth="3"
+        android:pathData="M150,90m-50,0a50,50 0 1,0 100,0a50,50 0 1,0 -100,0" />
+    <path
+        android:strokeColor="#CE93D8"
+        android:strokeWidth="2"
+        android:pathData="M150,90m-70,0a70,70 0 1,0 140,0a70,70 0 1,0 -140,0" />
+</vector>

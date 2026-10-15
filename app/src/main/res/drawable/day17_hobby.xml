@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFF3E0"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Artist Palette -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M150,30 C90,30 50,70 50,110 C50,140 80,160 120,160 C135,160 145,150 145,138 C145,130 140,125 150,125 C190,125 250,150 250,100 C250,55 200,30 150,30 Z" />
+    <!-- Color dots -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M90,75m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M130,55m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M180,60m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M215,90m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M95,120m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" />
+</vector>

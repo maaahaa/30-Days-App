@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="180dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#A8D5BA"
+        android:pathData="M0,0h300v180h-300z" />
+    <path
+        android:fillColor="#4D8B63"
+        android:pathData="M-20,180 Q50,110 120,180 Z" />
+    <path
+        android:fillColor="#386A20"
+        android:pathData="M80,180 Q170,80 260,180 Z" />
+    <path
+        android:fillColor="#285016"
+        android:pathData="M180,180 Q240,130 320,180 Z" />
+    <!-- Sun -->
+    <path
+        android:fillColor="#F9D71C"
+        android:pathData="M240,45m-25,0a25,25 0 1,0 50,0a25,25 0 1,0 -50,0" />
+    <!-- Sun rays -->
+    <path
+        android:fillColor="#FFE87C"
+        android:pathData="M240,12l3,12h-6z M240,78l3,-12h-6z M207,45l12,3v-6z M273,45l-12,3v-6z" />
+    <!-- Trees -->
+    <path
+        android:fillColor="#1D3E10"
+        android:pathData="M60,140 L45,170 L75,170 Z M60,125 L48,150 L72,150 Z" />
+    <path
+        android:fillColor="#152E0C"
+        android:pathData="M210,135 L195,168 L225,168 Z M210,120 L198,148 L222,148 Z" />
+</vector>

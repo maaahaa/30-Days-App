@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFFDE7"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Lightbulb glass -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M150,30 C120,30 100,50 100,80 C100,100 115,115 125,125 L175,125 C185,115 200,100 200,80 C200,50 180,30 150,30 Z" />
+    <!-- Screw Base -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M125,130 L175,130 L170,150 L130,150 Z" />
+    <path
+        android:fillColor="#616161"
+        android:pathData="M135,152 L165,152 L158,162 L142,162 Z" />
+    <!-- Glow rays -->
+    <path
+        android:strokeColor="#FDD835"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M150,15 L150,5 M80,40 L70,30 M220,40 L230,30 M60,80 L48,80 M240,80 L252,80" />
+</vector>

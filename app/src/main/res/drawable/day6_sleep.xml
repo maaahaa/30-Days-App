@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Moon -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M150,30 C120,30 95,55 95,85 C95,115 120,140 150,140 C130,130 120,105 125,85 C130,65 145,45 170,35 C163,32 157,30 150,30 Z" />
+    <!-- Stars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M210,40l3,7l7,3l-7,3l-3,7l-3,-7l-7,-3l7,-3z M80,60l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z M230,110l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z M70,130l3,7l7,3l-7,3l-3,7l-3,-7l-7,-3l7,-3z" />
+    <!-- Clouds -->
+    <path
+        android:fillColor="#3949AB"
+        android:pathData="M140,150 C140,135 155,125 170,130 C180,120 200,120 210,130 C220,125 235,135 235,150 Z" />
+</vector>

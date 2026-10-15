@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#F3E5F5"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Holding Hands / Gift Box -->
+    <path
+        android:fillColor="#AB47BC"
+        android:pathData="M100,80 L200,80 L200,150 L100,150 Z" />
+    <!-- Ribbon vertical -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M140,80 L160,80 L160,150 L140,150 Z" />
+    <!-- Ribbon horizontal -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M100,105 L200,105 L200,125 L100,125 Z" />
+    <!-- Bow -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M150,75 C130,55 110,75 140,78 Z M150,75 C170,55 190,75 160,78 Z" />
+</vector>

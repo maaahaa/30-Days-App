@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#EFEBE9"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Coffee Mug -->
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M100,50 L190,50 C190,50 185,130 145,130 C105,130 100,50 100,50 Z" />
+    <!-- Handle -->
+    <path
+        android:strokeColor="#6D4C41"
+        android:strokeWidth="8"
+        android:fillColor="#00000000"
+        android:pathData="M185,65 C215,65 215,105 180,110" />
+    <!-- Moon / Night time symbol -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M230,25 C215,25 200,38 200,55 C200,72 215,85 230,85 C218,78 212,62 215,50 C218,38 225,28 230,25 Z" />
+    <!-- Ban stroke -->
+    <path
+        android:strokeColor="#D32F2F"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:pathData="M80,150 L220,30" />
+</vector>

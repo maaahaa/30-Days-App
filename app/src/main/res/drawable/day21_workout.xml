@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FBE9E7"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Dumbbell -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M60,70 L80,70 L80,110 L60,110 Z M220,70 L240,70 L240,110 L220,110 Z" />
+    <path
+        android:fillColor="#263238"
+        android:pathData="M75,60 L95,60 L95,120 L75,120 Z M205,60 L225,60 L225,120 L205,120 Z" />
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M95,83 L205,83 L205,97 L95,97 Z" />
+    <!-- Dynamic Motion lines -->
+    <path
+        android:strokeColor="#FF5722"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M110,45 Q150,30 190,45 M110,135 Q150,150 190,135" />
+</vector>

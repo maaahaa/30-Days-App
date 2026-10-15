@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="180dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFF3E0"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Yoga mat -->
+    <path
+        android:fillColor="#FF8A65"
+        android:pathData="M40,140 C40,135 260,135 260,140 L250,155 C250,160 50,160 50,155 Z" />
+    <!-- Figure head -->
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M120,55m-15,0a15,15 0 1,0 30,0a15,15 0 1,0 -30,0" />
+    <!-- Body in stretch posture -->
+    <path
+        android:fillColor="#D81B60"
+        android:strokeColor="#D81B60"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M125,70 L160,105 L210,138 M125,70 L80,95 L50,120 M160,105 L110,138" />
+    <!-- Sparkles -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M220,50 L223,57 L230,60 L223,63 L220,70 L217,63 L210,60 L217,57 Z" />
+</vector>

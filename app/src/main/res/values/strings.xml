@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <!-- Day 1 -->
+    <string name="day_1">Day 1</string>
+    <string name="tip_1_title">Spend 15 minutes outdoors</string>
+    <string name="tip_1_desc">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighborhood.</string>
+
+    <!-- Day 2 -->
+    <string name="day_2">Day 2</string>
+    <string name="tip_2_title">Listen to a new podcast or audiobook</string>
+    <string name="tip_2_desc">Listen to a podcast and explore a topic you\'ve been itching to learn more about or discover a completely new topic or genre of content.</string>
+
+    <!-- Day 3 -->
+    <string name="day_3">Day 3</string>
+    <string name="tip_3_title">Drink 8 glasses of water</string>
+    <string name="tip_3_desc">Hydration is essential for mind and body function. Keep a water bottle nearby and track your intake throughout the day.</string>
+
+    <!-- Day 4 -->
+    <string name="day_4">Day 4</string>
+    <string name="tip_4_title">Do a 10-minute morning stretch</string>
+    <string name="tip_4_desc">Start your morning with gentle stretching to wake up your muscles, improve flexibility, and boost energy for the day ahead.</string>
+
+    <!-- Day 5 -->
+    <string name="day_5">Day 5</string>
+    <string name="tip_5_title">Read a chapter of a book</string>
+    <string name="tip_5_desc">Disconnect from digital screens and immerse yourself in a good book. Reading reduces stress and expands your perspective.</string>
+
+    <!-- Day 6 -->
+    <string name="day_6">Day 6</string>
+    <string name="tip_6_title">Prioritize 8 hours of sleep</string>
+    <string name="tip_6_desc">Establish a relaxing bedtime routine, dim the lights an hour before sleep, and give your body the rest it deserves.</string>
+
+    <!-- Day 7 -->
+    <string name="day_7">Day 7</string>
+    <string name="tip_7_title">Take a 20-minute brisk walk</string>
+    <string name="tip_7_desc">Walking improves cardiovascular health and clears the mind. Focus on your steps and breathing as you move.</string>
+
+    <!-- Day 8 -->
+    <string name="day_8">Day 8</string>
+    <string name="tip_8_title">Practice 5 minutes of mindfulness</string>
+    <string name="tip_8_desc">Sit quietly, close your eyes, and focus solely on your breath. Let thoughts pass by without judgment.</string>
+
+    <!-- Day 9 -->
+    <string name="day_9">Day 9</string>
+    <string name="tip_9_title">Eat a fresh piece of fruit</string>
+    <string name="tip_9_desc">Nourish your body with vitamins and natural sweetness. Enjoy a fresh apple, berry, or citrus as a midday treat.</string>
+
+    <!-- Day 10 -->
+    <string name="day_10">Day 10</string>
+    <string name="tip_10_title">Write down 3 gratitude entries</string>
+    <string name="tip_10_desc">Reflection on positive aspects of life shifts your mindset towards contentment and contentment strengthens emotional resilience.</string>
+
+    <!-- Day 11 -->
+    <string name="day_11">Day 11</string>
+    <string name="tip_11_title">Get morning sunlight</string>
+    <string name="tip_11_desc">Exposing your eyes to natural sunlight within an hour of waking up helps align your circadian rhythm and improves nighttime sleep quality.</string>
+
+    <!-- Day 12 -->
+    <string name="day_12">Day 12</string>
+    <string name="tip_12_title">Unplug from social media for 2 hours</string>
+    <string name="tip_12_desc">Take a break from notifications and endless scrolling. Use this time to engage fully with your physical surroundings.</string>
+
+    <!-- Day 13 -->
+    <string name="day_13">Day 13</string>
+    <string name="tip_13_title">Enjoy a soothing cup of herbal tea</string>
+    <string name="tip_13_desc">Chamomile, peppermint, or green tea can soothe digestion and relax your nervous system after a long day.</string>
+
+    <!-- Day 14 -->
+    <string name="day_14">Day 14</string>
+    <string name="tip_14_title">Reach out to an old friend</string>
+    <string name="tip_14_desc">Send a quick message or call a loved one you haven\'t spoken with recently. Strong social connections nurture emotional health.</string>
+
+    <!-- Day 15 -->
+    <string name="day_15">Day 15</string>
+    <string name="tip_15_title">Declutter one small space</string>
+    <string name="tip_15_desc">Clean your desk or organize a drawer. A tidy environment fosters a calm and clear mental state.</string>
+
+    <!-- Day 16 -->
+    <string name="day_16">Day 16</string>
+    <string name="tip_16_title">Try 4-7-8 deep breathing</string>
+    <string name="tip_16_desc">Inhale for 4 seconds, hold for 7 seconds, exhale slowly for 8 seconds. Repeat 4 cycles to immediately reduce anxiety.</string>
+
+    <!-- Day 17 -->
+    <string name="day_17">Day 17</string>
+    <string name="tip_17_title">Engage in a creative activity</string>
+    <string name="tip_17_desc">Doodle, cook a new recipe, write a short poem, or garden. Expressing creativity releases stress and boosts mood.</string>
+
+    <!-- Day 18 -->
+    <string name="day_18">Day 18</string>
+    <string name="tip_18_title">Check and correct your posture</string>
+    <string name="tip_18_desc">Sit up straight, roll your shoulders back, and align your neck. Proper posture prevents fatigue and back strain.</string>
+
+    <!-- Day 19 -->
+    <string name="day_19">Day 19</string>
+    <string name="tip_19_title">Share a meal without screens</string>
+    <string name="tip_19_desc">Eat breakfast or dinner without looking at phones or TV. Mindful eating enhances digestion and deepens conversation.</string>
+
+    <!-- Day 20 -->
+    <string name="day_20">Day 20</string>
+    <string name="tip_20_title">Listen to soothing acoustic music</string>
+    <string name="tip_20_desc">Music has a direct effect on your heart rate and brainwaves. Play relaxing instrumental or acoustic tunes during your work break.</string>
+
+    <!-- Day 21 -->
+    <string name="day_21">Day 21</string>
+    <string name="tip_21_title">Do 15 bodyweight exercises</string>
+    <string name="tip_21_desc">Perform a quick set of push-ups, squats, or jumping jacks. Short bursts of movement keep your metabolism active.</string>
+
+    <!-- Day 22 -->
+    <string name="day_22">Day 22</string>
+    <string name="tip_22_title">Watch or read something that makes you laugh</string>
+    <string name="tip_22_desc">Laughter releases endorphins and relaxes your entire body. Enjoy a comedy clip or funny story with friends.</string>
+
+    <!-- Day 23 -->
+    <string name="day_23">Day 23</string>
+    <string name="tip_23_title">Pamper yourself with self-care</string>
+    <string name="tip_23_desc">Take a warm bath, apply a face mask, or give yourself a foot massage. Treat yourself with care and kindness.</string>
+
+    <!-- Day 24 -->
+    <string name="day_24">Day 24</string>
+    <string name="tip_24_title">Learn 5 words in a new language</string>
+    <string name="tip_24_desc">Challenging your mind with new language skills stimulates neuroplasticity and sparks intellectual curiosity.</string>
+
+    <!-- Day 25 -->
+    <string name="day_25">Day 25</string>
+    <string name="tip_25_title">Perform a random act of kindness</string>
+    <string name="tip_25_desc">Hold the door for someone, compliment a coworker, or leave a kind note. Spreading kindness boosts happiness for both of you.</string>
+
+    <!-- Day 26 -->
+    <string name="day_26">Day 26</string>
+    <string name="tip_26_title">Include green vegetables in dinner</string>
+    <string name="tip_26_desc">Spinach, broccoli, or kale are packed with antioxidants, fiber, and vital nutrients that rejuvenate energy levels.</string>
+
+    <!-- Day 27 -->
+    <string name="day_27">Day 27</string>
+    <string name="tip_27_title">Take a warm relaxing bath or shower</string>
+    <string name="tip_27_desc">Warm water relaxes tense muscles and lowers core body temperature afterwards, preparing you for deep restful sleep.</string>
+
+    <!-- Day 28 -->
+    <string name="day_28">Day 28</string>
+    <string name="tip_28_title">Plan your upcoming week ahead</string>
+    <string name="tip_28_desc">Write down key goals and schedule priorities for the week. Planning ahead reduces mental anxiety and increases focus.</string>
+
+    <!-- Day 29 -->
+    <string name="day_29">Day 29</string>
+    <string name="tip_29_title">Avoid caffeine after 2:00 PM</string>
+    <string name="tip_29_desc">Caffeine has a long half-life. Cutting it early ensures your brain enters deep REM sleep naturally at night.</string>
+
+    <!-- Day 30 -->
+    <string name="day_30">Day 30</string>
+    <string name="tip_30_title">Reflect on your 30-day journey</string>
+    <string name="tip_30_desc">Congratulations on completing 30 days of wellness! Celebrate your commitment to a healthier, happier, and more balanced mind and body.</string>
+</resources>

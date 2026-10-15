@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Smiley face background -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M150,90m-60,0a60,60 0 1,0 120,0a60,60 0 1,0 -120,0" />
+    <!-- Laughing Eyes -->
+    <path
+        android:strokeColor="#5D4037"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M115,75 Q125,60 135,75 M165,75 Q175,60 185,75" />
+    <!-- Big Laugh Mouth -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M115,95 C115,130 185,130 185,95 Z" />
+    <!-- Tongue -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M135,115 C135,128 165,128 165,115 Z" />
+</vector>

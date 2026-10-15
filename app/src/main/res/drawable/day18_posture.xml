@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E8EAF6"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Vertical alignment spine line -->
+    <path
+        android:strokeColor="#3F51B5"
+        android:strokeWidth="6"
+        android:pathData="M150,20 L150,160" />
+    <!-- Body icon aligned straight -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M150,45m-15,0a15,15 0 1,0 30,0a15,15 0 1,0 -30,0" />
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M125,65 L175,65 C185,65 190,75 190,85 L180,130 C180,135 175,140 170,140 L130,140 C125,140 120,135 120,130 L110,85 C110,75 115,65 125,65 Z" />
+    <!-- Checkmarks / Sparkles -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M220,80 L232,92 L255,65" />
+</vector>

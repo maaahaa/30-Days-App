@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFFDE7"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Rising Sun -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M150,130m-50,0a50,50 0 1,0 100,0a50,50 0 1,0 -100,0" />
+    <!-- Sun rays -->
+    <path
+        android:strokeColor="#FBC02D"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M150,60 L150,40 M90,90 L70,75 M210,90 L230,75 M60,130 L40,130 M240,130 L260,130 M105,70 L90,50 M195,70 L210,50" />
+    <!-- Horizon Hills -->
+    <path
+        android:fillColor="#9E9D24"
+        android:pathData="M0,180 L0,140 Q80,120 160,140 Q230,160 300,130 L300,180 Z" />
+</vector>

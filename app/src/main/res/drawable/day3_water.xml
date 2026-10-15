@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="180dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Glass body -->
+    <path
+        android:fillColor="#B2EBF2"
+        android:pathData="M110,30 L120,155 C120,160 125,165 130,165 L170,165 C175,165 180,160 180,155 L190,30 Z" />
+    <!-- Water liquid -->
+    <path
+        android:fillColor="#00ACC1"
+        android:pathData="M115,70 Q130,65 150,70 T185,70 L179,153 C179,157 175,160 171,160 L129,160 C125,160 121,157 121,153 Z" />
+    <!-- Water bubbles -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M140,110m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M160,130m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M135,140m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <!-- Water drop floating -->
+    <path
+        android:fillColor="#00838F"
+        android:pathData="M230,60 C230,75 215,85 215,95 C215,103 221,110 230,110 C239,110 245,103 245,95 C245,85 230,75 230,60 Z" />
+</vector>

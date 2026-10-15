@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="180dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E8EAF6"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Open Book Pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,50 C90,40 140,55 150,60 L150,150 C140,145 90,130 50,140 Z" />
+    <path
+        android:fillColor="#F5F5F5"
+        android:pathData="M250,50 C210,40 160,55 150,60 L150,150 C160,145 210,130 250,140 Z" />
+    <!-- Book Cover Spine -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M45,140 L150,152 L255,140 L255,146 L150,158 L45,146 Z" />
+    <!-- Lines on left page -->
+    <path
+        android:fillColor="#7986CB"
+        android:pathData="M70,70h60v4h-60z M70,85h55v4h-55z M70,100h60v4h-60z M70,115h45v4h-45z" />
+    <!-- Lines on right page -->
+    <path
+        android:fillColor="#7986CB"
+        android:pathData="M170,70h60v4h-60z M170,85h50v4h-50z M170,100h60v4h-60z M170,115h55v4h-55z" />
+    <!-- Bookmark -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M145,50 L155,50 L155,110 L150,103 L145,110 Z" />
+</vector>

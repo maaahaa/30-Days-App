@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Bathtub -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M50,90 L250,90 C250,135 220,150 190,150 L110,150 C80,150 50,135 50,90 Z" />
+    <!-- Tub feet -->
+    <path
+        android:fillColor="#00838F"
+        android:pathData="M70,150 L65,168 L85,168 L80,150 Z M230,150 L235,168 L215,168 L220,150 Z" />
+    <!-- Bubbles floating -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,75m-10,0a10,10 0 1,0 20,0a10,10 0 1,0 -20,0 M110,60m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0 M150,70m-12,0a12,12 0 1,0 24,0a12,12 0 1,0 -24,0 M190,65m-16,0a16,16 0 1,0 32,0a16,16 0 1,0 -32,0 M220,80m-8,0a8,8 0 1,0 16,0a8,8 0 1,0 -16,0" />
+</vector>

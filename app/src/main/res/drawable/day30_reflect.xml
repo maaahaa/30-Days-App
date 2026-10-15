@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Trophy Cup -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M100,30 L200,30 C200,80 170,110 150,110 C130,110 100,80 100,30 Z" />
+    <!-- Handles -->
+    <path
+        android:strokeColor="#FFA000"
+        android:strokeWidth="6"
+        android:fillColor="#00000000"
+        android:pathData="M100,45 C75,45 75,80 105,85 M200,45 C225,45 225,80 195,85" />
+    <!-- Stem & Base -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M140,110 L160,110 L160,140 L140,140 Z M110,140 L190,140 C195,140 200,145 200,150 L200,160 L100,160 L100,150 C100,145 105,140 110,140 Z" />
+    <!-- Star on trophy -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M150,45 L154,55 L165,55 L156,62 L159,72 L150,65 L141,72 L144,62 L135,55 L146,55 Z" />
+</vector>

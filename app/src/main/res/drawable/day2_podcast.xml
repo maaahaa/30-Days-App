@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="180dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#2D3142"
+        android:pathData="M0,0h300v180h-300z" />
+    <path
+        android:fillColor="#4F5D75"
+        android:pathData="M150,20 C100,20 60,60 60,110 L60,135 C60,145 68,153 78,153 C88,153 96,145 96,135 L96,110 C96,80 120,56 150,56 C180,56 204,80 204,110 L204,135 C204,145 212,153 222,153 C232,153 240,145 240,135 L240,110 C240,60 200,20 150,20 Z" />
+    <!-- Headphones Cushions -->
+    <path
+        android:fillColor="#EF8354"
+        android:pathData="M50,95h20v50h-20a10,10 0 0,1 -10,-10v-30a10,10 0 0,1 10,-10z" />
+    <path
+        android:fillColor="#EF8354"
+        android:pathData="M230,95h20a10,10 0 0,1 10,10v30a10,10 0 0,1 -10,10h-20z" />
+    <!-- Mic icon / Soundwaves -->
+    <path
+        android:fillColor="#BFC0C0"
+        android:pathData="M142,75a8,8 0 0,1 16,0v25a8,8 0 0,1 -16,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M135,95a15,15 0 0,0 30,0h-4a11,11 0 0,1 -22,0z M148,110v12h4v-12z" />
+</vector>

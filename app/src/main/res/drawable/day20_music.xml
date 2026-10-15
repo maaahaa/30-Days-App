@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#EDE7F6"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Musical Note 1 -->
+    <path
+        android:fillColor="#673AB7"
+        android:pathData="M110,120a15,15 0 1,0 -30,0a15,15 0 1,0 30,0 M110,120 L110,50 L170,35 L170,105 M170,105a15,15 0 1,0 -30,0a15,15 0 1,0 30,0" />
+    <!-- Beam -->
+    <path
+        android:fillColor="#673AB7"
+        android:pathData="M110,50 L170,35 L170,50 L110,65 Z" />
+    <!-- Floating notes -->
+    <path
+        android:fillColor="#9575CD"
+        android:pathData="M220,70a10,10 0 1,0 -20,0a10,10 0 1,0 20,0 M220,70 L220,30 L240,25 L240,35 L220,40 Z" />
+</vector>

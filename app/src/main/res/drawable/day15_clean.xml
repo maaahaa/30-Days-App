@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E0F2F1"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Sparkles / Clean stars -->
+    <path
+        android:fillColor="#009688"
+        android:pathData="M150,30 L160,70 L200,80 L160,90 L150,130 L140,90 L100,80 L140,70 Z" />
+    <path
+        android:fillColor="#80CBC4"
+        android:pathData="M220,100 L226,120 L246,126 L226,132 L220,152 L214,132 L194,126 L214,120 Z" />
+    <path
+        android:fillColor="#4DB6AC"
+        android:pathData="M80,100 L84,115 L99,119 L84,123 L80,138 L76,123 L61,119 L76,115 Z" />
+</vector>

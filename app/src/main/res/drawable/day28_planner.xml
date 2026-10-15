@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E1F5FE"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Calendar Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,35 L230,35 C238,35 245,42 245,50 L245,155 C245,163 238,170 230,170 L70,170 C62,170 55,163 55,155 L55,50 C55,42 62,35 70,35 Z" />
+    <!-- Header -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M55,50 L245,50 L245,80 L55,80 Z" />
+    <!-- Grid Checkmarks -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M80,95h30v20h-30z M135,95h30v20h-30z M190,95h30v20h-30z M80,130h30v20h-30z M135,130h30v20h-30z M190,130h30v20h-30z" />
+    <!-- Rings at top -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M95,25h10v20h-10z M145,25h10v20h-10z M195,25h10v20h-10z" />
+</vector>

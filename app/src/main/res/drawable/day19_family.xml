@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Table -->
+    <path
+        android:fillColor="#A1887F"
+        android:pathData="M50,120 L250,120 L240,150 L60,150 Z M80,150 L75,175 L95,175 L98,150 Z M220,150 L222,175 L202,175 L205,150 Z" />
+    <!-- Bowl / Food -->
+    <path
+        android:fillColor="#FF7043"
+        android:pathData="M120,105 C120,120 180,120 180,105 Z" />
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M125,100 C135,90 165,90 175,100 Z" />
+    <!-- Heart above -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M150,60 C140,40 115,40 115,60 C115,75 150,90 150,90 C150,90 185,75 185,60 C185,40 160,40 150,60 Z" />
+</vector>

@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Path / Road -->
+    <path
+        android:fillColor="#C8E6C9"
+        android:pathData="M130,0 L170,0 L240,180 L60,180 Z" />
+    <!-- Shoes / Footprints -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M110,130 C110,115 125,115 125,130 C125,140 110,150 110,130 Z M105,142a4,4 0 1,0 8,0a4,4 0 1,0 -8,0 M117,144a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M175,70 C175,55 190,55 190,70 C190,80 175,90 175,70 Z M170,82a4,4 0 1,0 8,0a4,4 0 1,0 -8,0 M182,84a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+</vector>

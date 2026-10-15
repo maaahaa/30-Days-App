@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#F1F8E9"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Journal Cover -->
+    <path
+        android:fillColor="#558B2F"
+        android:pathData="M80,30 L210,30 C218,30 225,37 225,45 L225,155 C225,163 218,170 210,170 L80,170 Z" />
+    <!-- Pages -->
+    <path
+        android:fillColor="#FAFAFA"
+        android:pathData="M95,35 L205,35 C210,35 215,40 215,45 L215,155 C215,160 210,165 205,165 L95,165 Z" />
+    <!-- Bookmark ribbon -->
+    <path
+        android:fillColor="#FF8F00"
+        android:pathData="M170,35 L185,35 L185,110 L177,100 L170,110 Z" />
+    <!-- Pen -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M220,110 L245,60 L255,65 L230,115 Z" />
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M215,120 L220,110 L230,115 Z" />
+</vector>

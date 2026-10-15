@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="120dp"
+    android:viewportWidth="300"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M0,0h300v180h-300z" />
+    <!-- Smartphone -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M115,25 L185,25 C192,25 198,31 198,38 L198,152 C198,159 192,165 185,165 L115,165 C108,165 102,159 102,152 L102,38 C102,31 108,25 115,25 Z" />
+    <!-- Screen Off -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M108,38 L192,38 L192,148 L108,148 Z" />
+    <!-- Off / Ban Symbol -->
+    <path
+        android:strokeColor="#D32F2F"
+        android:strokeWidth="8"
+        android:pathData="M150,93m-35,0a35,35 0 1,0 70,0a35,35 0 1,0 -70,0 M125,118 L175,68" />
+</vector>
